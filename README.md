@@ -1,8 +1,8 @@
 # learn-pwn
-Pwn challenges for learning purpose. Intended for beginners.
+Pwn challenges for learning purposes. Intended for beginners.
 
 ## Objective
-The objective in each challenge is causing the executable to print the flag file.
+The objective in each challenge is to cause the executable to print the flag file.
 
 ## Rules / Tips
 1. The flag must be printed by the exectuable (not debugger), and the executable must not be patched.
