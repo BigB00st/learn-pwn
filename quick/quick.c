@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
+#include <time.h>
 
 void win()
 {
@@ -14,7 +15,8 @@ void win()
 int main()
 {
     long randNum, input;
-    alarm(3);
+    srand(time(NULL));
+    alarm(1);
     for (int i = 0; i < 10; ++i)
     {
         randNum = random();
