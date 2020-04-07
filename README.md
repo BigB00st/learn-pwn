@@ -21,7 +21,7 @@ The objective in each challenge is causing the executable to print the flag file
 
 ## Recommended tools
  * gdb
- * pwndbg/gef
+ * pwndbg/gef/peda
  * python
  * pwntools 
 
