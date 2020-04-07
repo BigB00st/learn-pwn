@@ -14,8 +14,10 @@ The objective in each challenge is causing the executable to print the flag file
 
 ## Recommeneded order of challenges
 1. hex
-2. bof
-3. ld-preload
+2. ld-preload
+3. bof
+4. got
+5. canary
 
 ## Recommended tools
  * gdb
