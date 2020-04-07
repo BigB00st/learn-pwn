@@ -12,12 +12,8 @@ The objective in each challenge is causing the executable to print the flag file
 5. Challenged are not intended to be solved with LD_PRELOAD, except challenge "ld-preload".
 6. Feel free to post solutions online.
 
-## Recommeneded order of challenges
-1. hex
-2. ld-preload
-3. bof
-4. got
-5. canary
+## Challenges difficulty
+View [LEVELS.md](LEVELS.md)
 
 ## Recommended tools
  * gdb
