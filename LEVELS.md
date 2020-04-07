@@ -1,13 +1,14 @@
 ## Levels
 Listed below are difficulty levels of the challenges.
 
-### Level 1
+### Level 0
  * hex
- * ld-preload
+ * quick
 
-### Level 2
+### Level 1
+ * ld-preload
  * bof
  * got
  
-### Level 3
+### Level 2
  * canary
