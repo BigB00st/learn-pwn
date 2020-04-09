@@ -9,6 +9,7 @@ Listed below are difficulty levels of the challenges.
  * ld-preload
  * bof
  * got
+ * shellcode
  
 ### Level 2
  * canary
