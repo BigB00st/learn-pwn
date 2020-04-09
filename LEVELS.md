@@ -8,6 +8,7 @@ Listed below are difficulty levels of the challenges.
 ### Level 1
  * ld-preload
  * bof
+ * pie
  * got
  * shellcode
  
